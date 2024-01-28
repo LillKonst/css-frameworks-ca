@@ -1,7 +1,7 @@
 # CSS FRAMEWORKS / CA - PICTUARIES
 
 [image](https://github.com/LillKonst/css-frameworks-ca/assets/126065743/ff32e7b5-851f-4923-8cdf-10d6154ebdcc)
-)
+
 
 This is my some app pictuaries. 
 
