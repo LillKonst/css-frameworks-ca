@@ -242,6 +242,10 @@ p {
     font-size: 0.5em;
   }
 }
+.error-message {
+  color: #A485D5;
+}
+
 .logo {
   width: 150px;
   padding: 20px;
