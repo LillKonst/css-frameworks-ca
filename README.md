@@ -1,2 +1,6 @@
 # css-frameworks-ca
-Replace this text with a description of your social media project.
+
+Here is my project for the css frameworks ca. 
+I've made a some app called "pictuaries" as in picture-diary.
+
+Netlify: https://steady-rugelach-fccd48.netlify.app/
