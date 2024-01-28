@@ -23,3 +23,16 @@ If you are interessted in more details or want to get in contact with me, you ar
 
 ## Acknowledgments
 This website was my sixth project at Noroff University.
+
+All images is borrowed from https://unsplash.com on 28/1/24.
+https://unsplash.com/photos/selective-focus-and-low-angle-photography-of-orange-tabby-cat-KfPwby-UisA
+https://unsplash.com/photos/white-and-brown-long-fur-cat-ZCHj_2lJP00
+https://unsplash.com/photos/selective-focus-photography-of-orange-and-white-cat-on-brown-table-75715CVEJhI
+https://unsplash.com/photos/silver-tabby-cat-on-brown-wooden-fence-qBSIwo7H0qY
+https://unsplash.com/photos/orange-tabby-cat-on-brown-woven-basket-_867Jy8LCkI
+https://unsplash.com/photos/tabby-cat-touching-persons-palm-xulIYVIbYIc
+https://unsplash.com/photos/sitting-orange-persian-cat-13ky5Ycf0ts
+https://unsplash.com/photos/short-coated-orange-and-white-cat-Qtg_270Aa_I
+https://unsplash.com/photos/white-butterfly-resting-on-cats-nose-rW-I87aPY5Y
+https://unsplash.com/photos/white-and-black-cat-on-yellow-surface-HoC9ttceIGo
+
